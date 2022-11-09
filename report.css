@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css2?family=Oleo+Script+Swash+Caps&family=Playfair+Display:ital,wght@0,500;0,600;1,400;1,500&family=Poppins&family=Roboto+Slab:wght@200;300;400&family=Space+Grotesk:wght@300;400;500;600;700&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;    
+}
+body{
+    background: linear-gradient(0deg, rgba(99, 102, 241, 0.08), rgba(99, 102, 241, 0.08)), #FFFFFF;
+}
+form{
+    background-color: #fff;
+    margin-top: 20px;
+    padding-left: 25px;
+}
+.home-view{
+    font-weight: 500;
+    font-size: 16px;
+    color: #4338CA;
+    font-weight: 500;
+}
+.report-pro{
+    font-size: 16px;
+    line-height: 19px;
+    color: #000;
+    font-weight: 500;
+}
+.report-on{
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    color: #9E0059;    
+}
+.view-all{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;    
+    color: #000;
+    background: linear-gradient(0deg, rgba(99, 102, 241, 0.08), rgba(99, 102, 241, 0.08)), #FFFFFF;
+    border-radius: 4px;
+    /* padding: 10px; */
+}
+.submit1{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    color: #9E0059;
+    text-decoration: none;
+    background: linear-gradient(0deg, rgba(99, 102, 241, 0.08), rgba(99, 102, 241, 0.08)), #FFFFFF;
+    border-radius: 4px;
+    /* padding: 10px; */
+}
+.download-report{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    color: #4338CA;
+    text-decoration: none;
+    background: linear-gradient(0deg, rgba(99, 102, 241, 0.08), rgba(99, 102, 241, 0.08)), #FFFFFF;
+    border-radius: 4px;
+    /* padding: 10px; */
+}
+.ring-road{
+    background: linear-gradient(0deg, rgba(99, 102, 241, 0.08), rgba(99, 102, 241, 0.08)), #FFFFFF;
+    border: 0.5px solid darkgrey;
+    border-radius: 4px;
+    padding: 15px 10px;
+    display: flex;
+}
+.project-2022{
+    font-family: 'poppins';
+    font-weight: 500;
+    font-size: 24px;
+}
+.text1{
+    font-weight: 400;
+    font-size: 16px;
+    color:darkgrey;
+}
+.r12{
+    color: rgba(0, 0, 0, 0.56);
+    font-size: 14px;
+}
+.y-review{
+    padding-top: 50px;
+    font-weight: 500;
+    font-size: 24px;
+    color: #4F4F4F;
+}
+.labels{
+    margin-top: 10px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+}
+.ep{
+    width: 44%;
+    height: 48px;
+    margin-top: 20px;
+    outline: none;
+    padding-left: 10px;
+    border: 1px solid darkgrey;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.text-area1{
+    outline: none;
+    margin-top: 20px;
+    width: 44%;
+    resize: none;
+    padding-left: 10px;
+    border: 1px solid darkgrey;
+    border-radius: 4px;
+}
+.red{
+    color: red;
+}
+.browse{
+    text-align: center;
+    font-weight: 500;
+    color: #4338CA;
+    width: 121px;
+    height: 48px;
+    background: linear-gradient(0deg, rgba(99, 102, 241, 0.08), rgba(99, 102, 241, 0.08)), #FFFFFF;
+    border-radius: 4px 0px 0px 4px;
+}
+.big{
+    width: 246px;
+    height: 48px;
+    border-width: 1px 1px 1px 0px;
+    border-style: solid;
+    border-color: #E0E0E0;
+}
+.but001{
+    /* padding: 16px 200px; */
+    background: #4338CA;
+    border-radius: 4px;
+    border: none;
+    color: #FFF;
+    height: 48px;
+    width: 45%;
+    margin-bottom: 50px;
+}
+/* style for manipulating file input */
+input[type="file"] {
+    display: none;
+}
